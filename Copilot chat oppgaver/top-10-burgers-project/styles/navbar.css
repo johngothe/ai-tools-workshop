@@ -14,6 +14,7 @@ nav {
   justify-content: space-between;
   align-items: center;
   padding: 2rem 0rem;
+  transition: padding 0.3s ease-in-out; /* Add this line */
 }
 
 .navbar-content-container.navbar-scrolled {
